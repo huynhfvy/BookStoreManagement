@@ -1,0 +1,80 @@
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Properties.Resources.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmLoginUser.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.GenerateResource.cache
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfoInputs.cache
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfo.cs
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.exe
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.deps.json
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.runtimeconfig.json
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\refint\QuanLyNhaSach.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.genruntimeconfig.cache
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmHomePageUser.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmBookInfo.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmReceipt.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmCreateAccountUser.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmUserAccount.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmCart.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmLoginAdmin.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmFunction.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmOrderManagement.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmBookManagement.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmCustomerAccount.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmDetailedInvoice.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmInfoBook_Admin.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FrmSplash.resources
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CopyComplete
+D:\Final Winform Project\DoAnCuoiKy\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\Z.Dapper.Plus.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.exe
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.deps.json
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.runtimeconfig.json
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\Z.Dapper.Plus.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmBookManagement.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmCustomerAccount.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmDetailedInvoice.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmFunction.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmInfoBook_Admin.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmLoginAdmin.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Admin.frmOrderManagement.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FrmSplash.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Properties.Resources.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmBookInfo.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmCart.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmCreateAccountUser.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmHomePageUser.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmLoginUser.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmReceipt.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.User.frmUserAccount.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.GenerateResource.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfoInputs.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfo.cs
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CopyComplete
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\refint\QuanLyNhaSach.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.genruntimeconfig.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
